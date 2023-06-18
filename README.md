@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e477dl9qu1s39xa4wef3bowahr0cp1qzc9cqlhi93h1&ep=v1_gifs_search&rid=200.webp&ct=g)" alt="coding png">
+<img align="right" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif" alt="coding png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh27" /> </p>
 
