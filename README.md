@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh27" /> </p>
 
 - 🌱 I’m currently learning **The Complete 2023 Web Development Bootcamp**
-
 - 📫 How to reach me **arjunsingh15102003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
