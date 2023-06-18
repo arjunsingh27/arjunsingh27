@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arjun Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="coding png">
+<img align="right" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif)" alt="coding png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh27" /> </p>
 
-- 🌱 I’m currently learning **The Complete 2023 Web Development Bootcamp**
+- 🌱 I![image](https://github.com/arjunsingh27/arjunsingh27/assets/70803514/e63e4278-8748-4aea-9544-ee3016feeed0)
+’m currently learning **The Complete 2023 Web Development Bootcamp**
 - 📫 How to reach me **arjunsingh15102003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
